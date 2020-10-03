@@ -1,0 +1,50 @@
+div {
+  margin: 30px;
+  width: 800px;
+}
+table {
+  border-collapse: collapse;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 20px;
+}
+caption {
+  color: blue;
+  font-weight: bold;
+  font-size: 30px;
+  margin-bottom: 30px;
+}
+#row2 > td {
+  border: none;
+}
+th {
+  border: 1px solid white;
+}
+#cos1 {
+  background-color: red;
+  color: white;
+}
+.cos2 {
+  background-color: #ff8c00;
+  color: white;
+}
+#cos7 {
+  background-color: blue;
+  color: white;
+}
+.cos3 {
+  color: red;
+}
+.cos8 {
+  color: blue;
+}
+td {
+  border: 2px solid #d3d3d3;
+}
+th,
+td {
+  padding: 0;
+  margin: 0;
+  text-align: center;
+  height: 40px;
+  width: 80px;
+}
